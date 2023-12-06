@@ -1,4 +1,4 @@
-#Grayscale Image Colorization Autoencoder
+# Grayscale Image Colorization Autoencoder
 Project Overview
 This project involves the development of an Autoencoder model using TensorFlow and Keras to colorize grayscale images. The primary goal is to teach the model how to add color to black and white images, enhancing the perception of originally monochromatic photos. We leverage the CelebA dataset, a rich collection of celebrity images, which is ideal for training and testing deep learning models in facial attribute recognition and image colorization tasks.
 
